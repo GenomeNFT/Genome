@@ -1,0 +1,10 @@
+{
+    "program": "genomenftmarketplace.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp7qQEhLD6CDJvGL9BYZ5mrmPCnLQqfYuAPyGK6HAChMPh",
+        "address": "aleo17cxjue56ypgpa82c9c53ck9uswjrfxnpyezpjmqlkvsl4y8q4vgsgj54ax"
+    },
+    "license": "MIT"
+}

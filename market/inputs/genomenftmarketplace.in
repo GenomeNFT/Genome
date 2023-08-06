@@ -1,0 +1,16 @@
+// Inputs for the mint function.
+[mint]
+imageId: u64 = 1u64;
+price: u64 = 1000000u64;
+is_traiding: bool = true;
+
+// Inputs for the buy function.
+[buy]
+imageId: u64 = 1u64;
+amount: u64 = 1000000u64;
+
+// Inputs for the change_sell_info function.
+[change_sell_info]
+imageId: u64 = 1u64;
+price: u64 = 3000000u64;
+is_traiding: bool = true;
