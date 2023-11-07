@@ -1,3 +1,4 @@
+Created by discord users @faerie2887 @sbogdasha + our Genome team
 
 # Genome AI NFT Marketplace - README
 
